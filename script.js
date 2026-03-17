@@ -21,6 +21,13 @@ const devs = [
 		linkedin: "https://www.linkedin.com/in/daniel-ssantoss/",
 		foto: "https://www.lingerandlook.com/Names/Dogs/cagney.jpg",
 	},
+  {
+		nome: "Meu nome",
+		bio: "Gosto disso e disso",
+		github: "https://github.com/",
+		linkedin: "https://www.linkedin.com/in/",
+		foto: "https://preview.redd.it/i-got-bored-so-i-decided-to-draw-a-random-image-on-the-v0-pm1cary85vjb1.jpg?width=640&crop=smart&auto=webp&s=b08a782c1d86fc39fb239ab272c8ec2d70910cd6",
+	},
 
 	// 👇 EXEMPLO DE DEVE ADICIONAR SEU CARD 👇
 	// {
